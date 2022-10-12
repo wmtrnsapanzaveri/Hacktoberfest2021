@@ -9,3 +9,12 @@ draw something add colors remove and erase operation
 -   canvas
 -   size
 -   color
+-   apk 
+-   build setup 
+-   refrence for base app 
+ 
+ 
+ Created with the flutter 2.5 
+ having mobile support
+ 
+ Created on 12/10/2022
